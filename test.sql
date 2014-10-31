@@ -31,7 +31,7 @@ CREATE TABLE `test` (
 
 LOCK TABLES `test` WRITE;
 /*!40000 ALTER TABLE `test` DISABLE KEYS */;
-INSERT INTO `test` VALUES (0,'test1'),(0,'tsjdflkdsj');
+INSERT INTO `test` VALUES (0,'test1'),(0,'tsjdflkdsj kem');
 /*!40000 ALTER TABLE `test` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
